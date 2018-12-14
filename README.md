@@ -28,7 +28,6 @@ Move your hands above the Leap Motion to control the landscape.
 
 Made with [Processing](https://processing.org/download/) and [Leap Motion](https://developer.leapmotion.com/windows-vr)
 
-
 ### FOLLOW UP
 
 The next iteration of this project will be created with [TouchDesigner](https://www.derivative.ca/099/Downloads/).
@@ -37,8 +36,11 @@ The next iteration of this project will be created with [TouchDesigner](https://
 - [ ] Flexible interface with more expansion on generative visuals
 - [ ] Push beyond the limitations of 2D graphics
 - [ ] 3D rendering to the interactive visualization
-- [ ] Improved user interaction with a [Kinect](https://developer.microsoft.com/en-us/windows/kinect)
+- [ ] Improve user interaction with a [Kinect](https://developer.microsoft.com/en-us/windows/kinect)
 
+### RESOURCES
+
+[Nature of Code](https://natureofcode.com/) and [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 ### PUBLISHED
 
